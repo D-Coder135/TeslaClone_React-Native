@@ -36,7 +36,8 @@ const styles = StyleSheet.create({
   },
 
   titles: {
-    marginTop: '30%'
+    marginTop: '30%',
+    width: '100%',
   },
 
   title: {},
