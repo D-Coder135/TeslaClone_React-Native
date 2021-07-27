@@ -4,7 +4,9 @@ import {Text, View} from 'react-native';
 const StyledButton = (props) => {
     return (
         <View>
+            <Text>
 
+            </Text>
         </View>
     );
 }
