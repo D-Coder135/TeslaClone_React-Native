@@ -1,5 +1,6 @@
 import React from 'react';
 import {View, Text, ImageBackground} from "react-native";
+import styles from "./styles"
 
 const CarItem = (props) => {
     return (
@@ -7,7 +8,7 @@ const CarItem = (props) => {
 
 
             <ImageBackground
-                source={require('./assets/images/ModelS.jpeg')}
+                source={require('../..assets/images/ModelS.jpeg')}
                 style={styles.image}
             />
 
