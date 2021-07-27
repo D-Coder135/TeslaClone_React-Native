@@ -1,5 +1,6 @@
 import React from 'react';
 import {Text, View, Pressable} from 'react-native';
+import styles from "./styles";
 
 const StyledButton = (props) => {
     return (
