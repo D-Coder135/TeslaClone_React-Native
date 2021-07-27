@@ -6,12 +6,13 @@ export default function App() {
     return (
         <View style={styles.container}>
 
-            <ImageBackground
-                source={require('./assets/images/ModelS.jpeg')}
-                style={styles.image}
-            />
-
             <View style={styles.carContainer}>
+
+
+                <ImageBackground
+                    source={require('./assets/images/ModelS.jpeg')}
+                    style={styles.image}
+                />
 
                 <View style={styles.titles}>
                     <Text style={styles.title}>
