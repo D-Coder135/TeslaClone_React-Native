@@ -5,6 +5,9 @@ import {StyleSheet, Text, View, ImageBackground} from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
+
+      <ImageBackground source={require('assets/images/ModelX.jpeg')}
+
       <View style={styles.carContainer}>
 
         <View style={styles.titles}>
