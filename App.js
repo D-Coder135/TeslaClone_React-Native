@@ -41,7 +41,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
 
-  title: {},
+  title: {
+    fontSize: 40,
+  },
 
   subtitle: {}
 });
