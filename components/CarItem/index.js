@@ -8,3 +8,5 @@ const CarItem = (props) => {
         </View>
     );
 }
+
+export default CarItem;
