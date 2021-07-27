@@ -8,7 +8,7 @@ export default function App() {
       <View style={styles.carContainer}>
 
         <View style={styles.titles}>
-          <Text>
+          <Text style={styles.title}>
             Model S
           </Text>
           <Text>
