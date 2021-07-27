@@ -14,7 +14,9 @@ const styles = StyleSheet.create({
         borderRadius: 20,
     },
 
-    text: {}
+    text: {
+        fontSize: 12,
+    }
 });
 
 export default styles;
