@@ -8,7 +8,7 @@ const CarItem = (props) => {
 
 
             <ImageBackground
-                source={require('../..assets/images/ModelS.jpeg')}
+                source={require('../../assets/images/ModelS.jpeg')}
                 style={styles.image}
             />
 
