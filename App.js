@@ -30,7 +30,9 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 
-  carContainer: {},
+  carContainer: {
+    width: '100%'
+  },
 
   titles: {},
 
