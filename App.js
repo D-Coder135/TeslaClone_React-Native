@@ -7,7 +7,7 @@ export default function App() {
         <View style={styles.container}>
 
             <ImageBackground
-                source={require('assets/images/ModelX.jpeg')}
+                source={require('./assets/images/ModelX.jpeg')}
                 style={styles.image}
             />
 
@@ -60,5 +60,6 @@ const styles = StyleSheet.create({
     image: {
         width: '100%',
         height: '100%',
+        resizeMode: 'cover',
     }
 });
