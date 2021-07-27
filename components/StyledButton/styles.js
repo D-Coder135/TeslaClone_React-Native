@@ -9,6 +9,7 @@ const styles = StyleSheet.create({
     button: {
         backgroundColor: 'white',
         height: 40,
+        justifyContent: 'center',
     },
 
     text: {}
