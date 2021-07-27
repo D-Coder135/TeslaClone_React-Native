@@ -32,5 +32,7 @@ const styles = StyleSheet.create({
 
   carContainer: {},
 
-  titles: {}
+  titles: {},
+
+  title: {}
 });
