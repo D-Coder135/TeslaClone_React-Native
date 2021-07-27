@@ -57,5 +57,7 @@ const styles = StyleSheet.create({
         color: '#5c5e62'
     },
 
-    image: {}
+    image: {
+        width: '100%',
+    }
 });
