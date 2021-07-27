@@ -30,5 +30,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 
-  carContainer: {}
+  carContainer: {},
+
+  titles: {}
 });
