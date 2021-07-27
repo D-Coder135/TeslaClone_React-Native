@@ -34,5 +34,7 @@ const styles = StyleSheet.create({
 
   titles: {},
 
-  title: {}
+  title: {},
+
+  subtitle: {}
 });
