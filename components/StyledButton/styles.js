@@ -6,7 +6,9 @@ const styles = StyleSheet.create({
         padding: 10,
     },
 
-    button: {},
+    button: {
+        backgroundColor: 'white',
+    },
 
     text: {}
 });
