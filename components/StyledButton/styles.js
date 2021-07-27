@@ -4,6 +4,8 @@ const styles = StyleSheet.create({
     container: {},
 
     button: {},
+
+    text: {}
 });
 
 export default styles;
