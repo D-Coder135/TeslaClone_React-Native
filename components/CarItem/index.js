@@ -22,6 +22,8 @@ const CarItem = (props) => {
                 </Text>
             </View>
 
+            <StyledButton/>
+
         </View>
     );
 }
