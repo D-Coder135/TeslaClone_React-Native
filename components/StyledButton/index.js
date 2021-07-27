@@ -4,3 +4,5 @@ import {Text, View} from 'react-native';
 const StyledButton = (props) => {
     return ();
 }
+
+export default StyledButton;
