@@ -38,6 +38,7 @@ const styles = StyleSheet.create({
   titles: {
     marginTop: '30%',
     width: '100%',
+    alignItems: 'center',
   },
 
   title: {},
