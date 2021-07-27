@@ -10,6 +10,7 @@ const styles = StyleSheet.create({
         backgroundColor: 'white',
         height: 40,
         justifyContent: 'center',
+        alignItems: 'center',
     },
 
     text: {}
