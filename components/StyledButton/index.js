@@ -7,10 +7,10 @@ const StyledButton = (props) => {
             <Pressable
                 style={styles.button}
                 onPress={() => {
-
+                    console.warn("Hey there");
                 }}
             >
-
+                <Text></Text>
             </Pressable>
         </View>
     );
