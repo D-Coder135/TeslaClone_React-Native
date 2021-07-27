@@ -11,7 +11,7 @@ export default function App() {
           <Text style={styles.title}>
             Model S
           </Text>
-          <Text>
+          <Text style={styles.subtitle}>
             Starting at $69,428
           </Text>
         </View>
