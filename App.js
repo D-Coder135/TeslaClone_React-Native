@@ -7,11 +7,10 @@ export default function App() {
     <View style={styles.container}>
       <View style={styles.carContainer}>
 
-        <View>
+        <View style={styles.titles}>
           <Text>
             Model S
           </Text>
-
           <Text>
             Starting at $69,428
           </Text>
