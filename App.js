@@ -13,7 +13,7 @@ export default function App() {
           </Text>
 
           <Text>
-
+            Starting at $69,428
           </Text>
         </View>
 
