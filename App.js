@@ -11,6 +11,10 @@ export default function App() {
           <Text>
             Model S
           </Text>
+
+          <Text>
+
+          </Text>
         </View>
 
       </View>
