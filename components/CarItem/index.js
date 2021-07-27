@@ -4,7 +4,7 @@ import {View, Text} from "react-native";
 const CarItem = (props) => {
     return (
         <View>
-
+            <Text></Text>
         </View>
     );
 }
