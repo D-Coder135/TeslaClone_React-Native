@@ -10,6 +10,7 @@ export default function App() {
             <CarItem
                 name={'Model S'}
                 tagline={'Starting from $69,540'}
+                image={require('./assets/images/ModelS.jpeg')}
             />
 
             <StatusBar style="auto"/>
