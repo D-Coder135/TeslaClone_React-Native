@@ -6,3 +6,5 @@ const CarList = (props) => {
 
     );
 }
+
+export default CarList;
