@@ -34,7 +34,7 @@ const CarItem = (props) => {
                 type="secondary"
                 content="Existing Inventory"
                 onPress={() => {
-
+                    console.warn("Existing Inventory Button Was Pressed.")
                 }}
             />
 
