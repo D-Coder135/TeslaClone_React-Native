@@ -10,7 +10,6 @@ export default function App() {
         <View style={styles.container}>
 
             <Header/>
-
             <CarsList/>
 
             {/*<CarItem*/}
