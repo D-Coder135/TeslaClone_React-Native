@@ -4,10 +4,6 @@ import styles from "./styles";
 
 const StyledButton = (props) => {
 
-    // const type = props.type;
-    // const content = props.content;
-    // const onPress = props.onPress;
-
     const {
         type,
         content,
