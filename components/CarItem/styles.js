@@ -29,7 +29,9 @@ const styles = StyleSheet.create({
         position: 'absolute',
     },
 
-    buttonContainer: {}
+    buttonContainer: {
+        position: 'absolute',
+    }
 });
 
 export default styles;
