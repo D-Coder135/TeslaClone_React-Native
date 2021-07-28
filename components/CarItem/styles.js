@@ -22,7 +22,9 @@ const styles = StyleSheet.create({
         color: '#5c5e62'
     },
 
-    subtitleCTA: {},
+    subtitleCTA: {
+        textDecorationLine: 'underline',
+    },
 
     image: {
         width: '100%',
