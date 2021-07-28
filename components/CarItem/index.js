@@ -22,6 +22,7 @@ const CarItem = (props) => {
                 </Text>
                 <Text style={styles.subtitle}>
                     {tagline}
+                    {' '}
                     <Text style={styles.subtitleCTA}>
                         {taglineCTA}
                     </Text>
