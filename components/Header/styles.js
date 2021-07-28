@@ -6,6 +6,7 @@ const styles = StyleSheet.create({
         top: 50,
         zIndex: 100,
         flexDirection: 'row',
+        width: '100%',
     },
 
     logo: {
