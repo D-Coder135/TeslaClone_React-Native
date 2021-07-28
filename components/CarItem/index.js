@@ -30,7 +30,9 @@ const CarItem = (props) => {
                 }}
             />
 
-            <StyledButton/>
+            <StyledButton
+                type="secondary"
+            />
 
         </View>
     );
