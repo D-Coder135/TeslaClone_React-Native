@@ -22,7 +22,10 @@ const CarItem = (props) => {
                 </Text>
             </View>
 
-            <StyledButton type="primary"/>
+            <StyledButton
+                type="primary"
+                content="Custom Order"
+            />
 
         </View>
     );
