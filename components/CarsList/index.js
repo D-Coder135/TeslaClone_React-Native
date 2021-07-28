@@ -7,7 +7,11 @@ import CarItem from "../CarItem";
 const CarList = (props) => {
     return (
         <View style={styles.container}>
-            <FlatList data={cars} renderItem={({item}) => <CarItem car={item}/>}/>
+            <FlatList
+                data={cars}
+                renderItem={({item}) => <CarItem car={item}/>}
+                snapToAlignment={'start'}
+            />
         </View>
     );
 }
