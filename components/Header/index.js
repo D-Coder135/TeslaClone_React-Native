@@ -2,5 +2,7 @@ import React from 'react';
 import {View, Text} from 'react-native';
 
 const Header = (props) => {
-    return ();
+    return (
+        <View></View>
+    );
 }
