@@ -11,6 +11,7 @@ const CarList = (props) => {
                 data={cars}
                 renderItem={({item}) => <CarItem car={item}/>}
                 snapToAlignment={'start'}
+                decelerationRate={'fast'}
             />
         </View>
     );
