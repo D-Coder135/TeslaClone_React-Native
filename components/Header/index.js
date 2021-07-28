@@ -6,3 +6,5 @@ const Header = (props) => {
         <View></View>
     );
 }
+
+export default Header;
