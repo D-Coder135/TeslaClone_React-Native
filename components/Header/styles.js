@@ -3,7 +3,9 @@ import {StyleSheet} from 'react-native';
 const styles = StyleSheet.create({
     container: {},
 
-    logo: {},
+    logo: {
+        width: 100,
+    },
 
     menu: {
         width: 25,
