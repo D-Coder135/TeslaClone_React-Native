@@ -18,7 +18,7 @@ const CarItem = (props) => {
 
             <View style={styles.titles}>
                 <Text style={styles.title}>
-                    Model S
+                    {name}
                 </Text>
                 <Text style={styles.subtitle}>
                     Starting at $69,428
