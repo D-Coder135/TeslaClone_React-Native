@@ -3,7 +3,9 @@ import {View, Text} from 'react-native';
 
 const CarList = (props) => {
     return (
-        <View></View>
+        <View>
+
+        </View>
     );
 }
 
