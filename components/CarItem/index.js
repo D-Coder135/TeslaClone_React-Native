@@ -22,6 +22,8 @@ const CarItem = (props) => {
                 </Text>
             </View>
 
+            <View style={styles.buttonContainer}></View>
+
             <StyledButton
                 type="primary"
                 content="Custom Order"
