@@ -17,7 +17,7 @@ const StyledButton = (props) => {
                     console.warn("Hey there");
                 }}
             >
-                <Text style={[styles.text]}>
+                <Text style={[styles.text, {color: textColor}]}>
                     Custom Order
                 </Text>
             </Pressable>
