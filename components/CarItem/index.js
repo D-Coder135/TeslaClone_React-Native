@@ -25,6 +25,9 @@ const CarItem = (props) => {
             <StyledButton
                 type="primary"
                 content="Custom Order"
+                onPress={() => {
+
+                }}
             />
 
         </View>
