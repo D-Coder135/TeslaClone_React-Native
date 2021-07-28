@@ -7,6 +7,7 @@ const styles = StyleSheet.create({
         zIndex: 100,
         flexDirection: 'row',
         width: '100%',
+        justifyContent: 'space-between',
     },
 
     logo: {
