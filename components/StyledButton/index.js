@@ -6,6 +6,7 @@ const StyledButton = (props) => {
 
     const type = props.type;
 
+
     return (
         <View style={styles.container}>
             <Pressable
