@@ -20,7 +20,7 @@ const StyledButton = (props) => {
                 }}
             >
                 <Text style={[styles.text, {color: textColor}]}>
-                    Custom Order
+                    {content}
                 </Text>
             </Pressable>
         </View>
