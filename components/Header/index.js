@@ -5,7 +5,7 @@ import styles from './styles';
 const Header = (props) => {
     return (
         <View style={styles.container}>
-            <Image style={styles.logo}/>
+            <Image style={styles.logo} source={require('../../assets/images/logo.png')}/>
         </View>
     );
 }
