@@ -5,6 +5,7 @@ const styles = StyleSheet.create({
 
     logo: {},
 
+    menu: {}
 });
 
 export default styles
