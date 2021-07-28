@@ -4,7 +4,9 @@ import styles from './styles';
 
 const Header = (props) => {
     return (
-        <View style={styles.container}></View>
+        <View style={styles.container}>
+            <Image/>
+        </View>
     );
 }
 
