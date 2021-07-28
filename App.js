@@ -9,6 +9,7 @@ export default function App() {
 
             <CarItem
                 name={'Model S'}
+                tagline={'Starting from $69,540'}
             />
 
             <StatusBar style="auto"/>
