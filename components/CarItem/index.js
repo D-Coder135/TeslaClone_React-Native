@@ -32,6 +32,7 @@ const CarItem = (props) => {
 
             <StyledButton
                 type="secondary"
+                content="Existing Inventory"
             />
 
         </View>
