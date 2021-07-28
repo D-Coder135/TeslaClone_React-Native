@@ -26,7 +26,7 @@ const CarItem = (props) => {
                 type="primary"
                 content="Custom Order"
                 onPress={() => {
-
+                    console.warn("Custom Order Button Was Pressed.")
                 }}
             />
 
