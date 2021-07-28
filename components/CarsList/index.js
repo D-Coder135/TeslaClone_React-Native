@@ -6,7 +6,9 @@ import cars from "./cars";
 const CarList = (props) => {
     return (
         <View>
-            <FlatList data={cars} renderItem={}/>
+            <FlatList data={cars} renderItem={(item) => {
+
+            }}/>
         </View>
     );
 }
