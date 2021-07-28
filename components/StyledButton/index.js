@@ -3,6 +3,9 @@ import {Text, View, Pressable} from 'react-native';
 import styles from "./styles";
 
 const StyledButton = (props) => {
+
+    const type = props.type;
+
     return (
         <View style={styles.container}>
             <Pressable
