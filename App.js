@@ -12,13 +12,6 @@ export default function App() {
             <Header/>
             <CarsList/>
 
-            {/*<CarItem*/}
-            {/*    name={'Model S'}*/}
-            {/*    tagline={'Order Online For'}*/}
-            {/*    taglineCTA={'Touchless Delivery'}*/}
-            {/*    image={require('./assets/images/ModelS.jpeg')}*/}
-            {/*/>*/}
-
             <StatusBar style="auto"/>
         </View>
     );
